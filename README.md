@@ -1,9 +1,9 @@
 # ZERRE
 An online, map-based, android strategy game
 
-### A world of circles and more circles
+### A map-based strategy game
 
-This game has elements of a classical strategy games' elements: Towns, villages, unit system, resources, techonology tree, battles and treaties. Unlike the other strategy games out there in android, ZERRE has a map of towns and regions. Players will be limited to battle or signing a treaty to other players because of that. Like the Ibn Khaldun, a historian, said "Geography is destiny."
+This game has elements of a classical strategy games' elements: Towns, villages, unit system, resources, techonology tree, battles and treaties. Unlike the other strategy games out there in android, ZERRE has a map of towns and regions. Players will be limited to battle or signing a treaty to other players because of that. Like the Ibn Khaldun, a historian, said "Geography is destiny".
 
 ### What is ZERRE 
 
@@ -13,9 +13,11 @@ In game, ZERRE is your town center that includes your permanent belengings of yo
 
 ## Maps: Mini to Maxi 
 
+ZERRE's map system has unique features. Maps made with circles and container maps are circles too. Shortly, a server has circle shape and other provinces have circle shape too. You will see in a minute: 
+
 Before seeing maps you need to see default ZERRE(player's town center):
 
-![zerre.png](https://lh3.googleusercontent.com/Ueas0TVTzpBdGJ4L4m1uyeaSyVpTmfZIRO5F8GETuedZN02Vl0n8eimrvUXbFqxC_I5W1IJiPjwqWZ8NICR_ssPm8tvqdZNOGYPGwKdAsQ=w811-h700-no)
+![zerre.png](https://lh3.googleusercontent.com/x15lPraowZIjpvf1g44HzdbkHC68nPlHfxgiP-9hbQrV5oqzErVmi1LS2wEdX2CaKoSzh5aGXZgdvRI7vHlK2iY3u_fVA0YB_edrJJikeQ=w945-h522-no)
 
 This is an Ico Sphere of Blender 3D's common shape. It hasn't changeable shape at all. But players can change other buildings freely.
 
@@ -31,8 +33,16 @@ This is a "chamber". It contains 24 ZERREs in the beginning. Each player will st
 
 ![lump.png](https://lh3.googleusercontent.com/RR3NdR4lEP2epTJEF4slGAN3KnYNLRl1N65lkE6zbK-ayk3Ue-jCWApnQ-JTylmigXx9wN_Brc0FVUyEqZXFbau1OZaE2xFBxUQ-6M232Q=w1600-h1200-no)
 
-24 x 24
+This is a "lump". It contains 24 x 24 = 576 ZERREs. 
 
 **Chunk**
 
 ![chunk.png](https://lh3.googleusercontent.com/PV41t-yrnnIJTkMFFc4d-jUI-NBc1Hzk4oAck7qDm9o9ZHt3P3VH8mDX1xlMBpyD3iW1CuBKNhe9SKE1EwmFNnmsofM17rj8Flp-nKKtow=w2048-h1946-no)
+
+This is a "chunk". It contains 576 x 6 = 3,456 ZERREs.
+
+**Vast**
+
+
+
+This is a "vast". It contains 3456 x 6 = 20,736 ZERREs. A vast is a single server for game. So, a server contains 20,736 players. 
