@@ -13,7 +13,13 @@ In game, ZERRE is your town center that includes your permanent belengings of yo
 
 ## Maps: Mini to Maxi 
 
-ZERRE's map system has unique features. Maps made with circles and container maps are circles too. Shortly, a server has circle shape and other provinces have circle shape too. You will see in a minute: 
+ZERRE's map system has unique features. Maps made with circles and container maps are circles too. Shortly, a server has circle shape and other provinces have circle shape too. So I need to solve a problem: Packing problem. Thankfully I discoreved a website which contains packing problems solutions: http://packomania.com/ After that I chose the optimum circle that useful for me: 61 circles in one circle. 
+
+In addition to this, I chose one more problem solution: 7 circles in one circle. I blend them together and made maps from them. 
+
+In here I have to say, "so many thanks for these solutions" to everyone who contirubuted to "packomania". 
+
+You will see in a minute: 
 
 Before seeing maps you need to see default ZERRE(player's town center):
 
