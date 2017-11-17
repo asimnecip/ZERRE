@@ -33,7 +33,7 @@ After ZERRE we can continue to maps:
 
 ![chamber.png](https://lh3.googleusercontent.com/AEflov6lR583rSS8LNwS4VXvFKK2CIwsKi_J5EMpm395VXY7m2TvSp7X9s_5QDFJ5f41qmkkCWGUtj0B8xOSQz1M_kzk3vBr7LAoZ6hWyw=w811-h694-no)
 
-This is a "chamber". It contains 24 ZERREs in the beginning. Each player will start with the circle that  tangent to big circle which is named chamber. 
+This is a "chamber". It contains 24 ZERREs in the beginning. Each player will start with the circle's center that tangented to big circle which is named chamber. In order to this description, we can say starting circles are yellow ones.
 
 **Lump**
 
