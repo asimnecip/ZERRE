@@ -49,6 +49,6 @@ This is a "chunk". It contains 576 x 6 = 3,456 ZERREs.
 
 **Vast**
 
-
+![vast.png](https://raw.githubusercontent.com/nbsas/ZERRE/master/VASTwNames-small.png)
 
 This is a "vast". It contains 3456 x 6 = 20,736 ZERREs. A vast is a single server for game. So, a server contains 20,736 players. 
