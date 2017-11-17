@@ -23,16 +23,16 @@ After ZERRE we can continue to maps:
 
 **Chamber**
 
-![chamber.png]({{site.baseurl}}/chamber.png)
+![chamber.png](https://lh3.googleusercontent.com/AEflov6lR583rSS8LNwS4VXvFKK2CIwsKi_J5EMpm395VXY7m2TvSp7X9s_5QDFJ5f41qmkkCWGUtj0B8xOSQz1M_kzk3vBr7LAoZ6hWyw=w811-h694-no)
 
 This is a "chamber". It contains 24 ZERREs in the beginning. Each player will start with the circle that  tangent to big circle which is named chamber. 
 
 **Lump**
 
-![lump.png]({{site.baseurl}}/lump.png)
+![lump.png](https://lh3.googleusercontent.com/RR3NdR4lEP2epTJEF4slGAN3KnYNLRl1N65lkE6zbK-ayk3Ue-jCWApnQ-JTylmigXx9wN_Brc0FVUyEqZXFbau1OZaE2xFBxUQ-6M232Q=w1600-h1200-no)
 
 24 x 24
 
 **Chunk**
 
-![chunk.png]({{site.baseurl}}/chunk.png)
+![chunk.png](https://lh3.googleusercontent.com/PV41t-yrnnIJTkMFFc4d-jUI-NBc1Hzk4oAck7qDm9o9ZHt3P3VH8mDX1xlMBpyD3iW1CuBKNhe9SKE1EwmFNnmsofM17rj8Flp-nKKtow=w2048-h1946-no)
