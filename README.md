@@ -15,7 +15,7 @@ In game, ZERRE is your town center that includes your permanent belengings of yo
 
 Before seeing maps you need to see default ZERRE(player's town center):
 
-![zerre.png]({{site.baseurl}}/zerre.png)
+![zerre.png](https://lh3.googleusercontent.com/Ueas0TVTzpBdGJ4L4m1uyeaSyVpTmfZIRO5F8GETuedZN02Vl0n8eimrvUXbFqxC_I5W1IJiPjwqWZ8NICR_ssPm8tvqdZNOGYPGwKdAsQ=w811-h700-no)
 
 This is an Ico Sphere of Blender 3D's common shape. It hasn't changeable shape at all. But players can change other buildings freely.
 
@@ -36,10 +36,3 @@ This is a "chamber". It contains 24 ZERREs in the beginning. Each player will st
 **Chunk**
 
 ![chunk.png]({{site.baseurl}}/chunk.png)
-
-
-
-
-
-
-
