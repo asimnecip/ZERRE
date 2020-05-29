@@ -19,8 +19,6 @@ In addition to this, I chose one more problem solution: 7 circles in one circle.
 
 In here I have to say, "so many thanks for these solutions" to everyone who contirubuted to "packomania". 
 
-You will see in a minute: 
-
 Before seeing maps you need to see default ZERRE(player's town center):
 
 ![zerre.png](https://lh3.googleusercontent.com/x15lPraowZIjpvf1g44HzdbkHC68nPlHfxgiP-9hbQrV5oqzErVmi1LS2wEdX2CaKoSzh5aGXZgdvRI7vHlK2iY3u_fVA0YB_edrJJikeQ=w945-h522-no)
@@ -52,3 +50,20 @@ This is a "chunk". It contains 576 x 6 = 3,456 ZERREs.
 ![vast.png](https://raw.githubusercontent.com/nbsas/ZERRE/master/VASTwNames-small.png)
 
 This is a "vast". It contains 3456 x 6 = 20,736 ZERREs. A vast is a single server for game. So, a server contains 20,736 players. 
+
+# I started to play the game. What next?
+
+
+## Political systems
+
+### Monarchy
+
+### Oligarchy
+
+### Democracy
+
+## 
+
+### 
+
+
